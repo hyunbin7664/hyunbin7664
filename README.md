@@ -1,4 +1,4 @@
-# Hyunbin
+# Hyunbin Song
 
 Backend developer · Mathematics & Computer Science @ Sogang University
 
